@@ -17,30 +17,6 @@
 
 <h3 align="left">Lenguajes y habilidades:</h3>
 <p align="left">
-    <a href="https://nodejs.org/es" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="50" height="50"/>
-    </a>
-    <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"  width="50" height="50"/>
-    </a>
-    <a href="https://php.net" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/>
-    </a>
-    <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="50" height="50"/>
-    </a>
-    <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="c#" width="50" height="50"/>
-    </a>
-    <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="50"/>
-    </a>
-    <a href="https://mysql.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
-    </a>
-    <a href="https://react.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
-    </a>
     <a href="https://html5.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html 5" width="50" height="50"/>
     </a>
@@ -50,8 +26,35 @@
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/>
     </a>
+    <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="50" height="50"/>
+    </a>
+    <a href="https://nodejs.org/es" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="50" height="50"/>
+    </a>
+    <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"  width="50" height="50"/>
+    </a>
+    <a href="https://mongodb.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="50"/>
+    </a>
+    <a href="https://react.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
+    </a>
+    <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="c#" width="50" height="50"/>
+    </a>
+    <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="50" height="50"/>
+    </a>
+    <a href="https://php.net" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/>
+    </a>
     <a href="https://laravel.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
+    </a>
+    <a href="https://mysql.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
