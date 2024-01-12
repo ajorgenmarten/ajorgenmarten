@@ -17,15 +17,10 @@
 <h3 align="left">Proyectos de ejemplo:</h3>
 <p align="left">
 
-## Hola
-![App Screenshot](cloud.png)
-
 <a href="https://uploadfilefront.onrender.com/" target="_blank" rel="noreferrer" style="display: flex; flex-flow: column">
-    <span>Subir archivo</span>
     <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
 </a>
 <a href="https://barberyd.onrender.com/" target="_blank" rel="noreferrer" style="display: flex; flex-flow: column">
-    <span>Una divertida tarjeta de barbero</span>
     <img src="barber.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
 </a>
 </p>
