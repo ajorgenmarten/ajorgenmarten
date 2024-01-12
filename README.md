@@ -19,7 +19,10 @@
     <p>Subir archivo</p>
     <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
 </a>
-
+<a href="https://barberyd.onrender.com/" target="_blank" rel="noreferrer">
+    <p>Una divertida tarjeta de barbero</p>
+    <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
+</a>
 
 <h3 align="left">Lenguajes y habilidades:</h3>
 <p align="left">
