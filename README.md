@@ -17,7 +17,7 @@
 <h3 align="left">Proyectos de ejemplo:</h3>
 <a href="https://uploadfile-srzp.onrender.com/" target="_blank" rel="noreferrer">
     <p>Subir archivo</p>
-    <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover;"/>
+    <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
 </a>
 
 
