@@ -11,8 +11,14 @@
 
 <h3 align="left">Sobre mi:</h3>
 <p align="left">
-    Tengo 23 años, entré al mundo de la programación a los 19 años cuando empecé a estudiar la carrera de ingeniería informática.  
+    Tengo 24 años, entré al mundo de la programación a los 19 años cuando empecé a estudiar la carrera de ingeniería informática.
 </p>
+
+<h3 align="left">Proyectos de ejemplo:</h3>
+<a href="https://uploadfile-srzp.onrender.com/" target="_blank" rel="noreferrer">
+    <p>Subir archivo</p>
+    <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover;"/>
+</a>
 
 
 <h3 align="left">Lenguajes y habilidades:</h3>
