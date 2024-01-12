@@ -6,6 +6,9 @@
     <a href="https://wa.me/+5358692033" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="alejandro jorgen" height="60" width="60" />
     </a>
+    <a href="https://t.me/dev_coco" target="blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="alejandro jorgen" height="60" width="60" />
+    </a>
     <a href="+5358692033"></a>
 </p>
 
