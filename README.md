@@ -15,15 +15,16 @@
 </p>
 
 <h3 align="left">Proyectos de ejemplo:</h3>
+<p>
 <a href="https://uploadfilefront.onrender.com/" target="_blank" rel="noreferrer">
     <p>Subir archivo</p>
     <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
 </a>
 <a href="https://barberyd.onrender.com/" target="_blank" rel="noreferrer">
     <p>Una divertida tarjeta de barbero</p>
-    <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
+    <img src="barber.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
 </a>
-
+</p>
 <h3 align="left">Lenguajes y habilidades:</h3>
 <p align="left">
     <a href="https://html5.org/" target="_blank" rel="noreferrer">
