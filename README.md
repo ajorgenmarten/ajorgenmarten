@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://wa.me/+5358692033" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
+    <a href="https://t.me/dev_coco" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
