@@ -1,81 +1,9 @@
-<h1>Hola 👋, mi nombre es Alejandro Jorgen</h1>
-<h3>Me dedico al desaarrollo web 💻</h3>
+<h1 align="center">Hi 👋, I'm Alejandro Jorgen</h1>
+<h3 align="center">A passionate frontend developer from Cuba</h3>
 
-<h3 align="left">Contacto:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://wa.me/+5358692033" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="alejandro jorgen" height="60" width="60" />
-    </a>
-    <a href="https://t.me/dev_coco" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="alejandro jorgen" height="60" width="60" />
-    </a>
-    <a href="mailto:ajorgenmarten35@gmail.com" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="alejandro jorgen" height="60" width="60" />
-    </a>
 </p>
 
-<h3 align="left">Sobre mi:</h3>
-<p align="left">
-    Tengo 24 años, entré al mundo de la programación a los 19 años cuando empecé a estudiar la carrera de ingeniería informática.
-</p>
-
-<h3 align="left">Proyectos de ejemplo:</h3>
-<p align="left">
-
-<a href="https://uploadfilefront.onrender.com/" target="_blank" rel="noreferrer" style="display: flex; flex-flow: column">
-    <img src="cloud.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
-</a>
-<a href="https://barberyd.onrender.com/" target="_blank" rel="noreferrer" style="display: flex; flex-flow: column">
-    <img src="barber.png" alt="subir archivo" width="200px" height="200px" style="object-fit:cover; outline: 1px solid gray"/>
-</a>
-</p>
-
-<h3 align="left">Lenguajes y habilidades:</h3>
-<p align="left">
-    <a href="https://html5.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html 5" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/>
-    </a>
-    <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org/es" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="50" height="50"/>
-    </a>
-    <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"  width="50" height="50"/>
-    </a>
-    <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="50"/>
-    </a>
-    <a href="https://react.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
-    </a>
-    <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="c#" width="50" height="50"/>
-    </a>
-    <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="50" height="50"/>
-    </a>
-    <a href="https://php.net" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50"/>
-    </a>
-    <a href="https://laravel.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
-    </a>
-    <a href="https://mysql.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-    </a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajorgenmarten&show_icons=true&locale=en" alt="ajorgenmarten" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajorgenmarten&locale=es" alt="ajorgenmarten" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
